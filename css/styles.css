@@ -22,7 +22,18 @@
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
+  background: linear-gradient(
+    to bottom,
+    rgb(242, 169, 169),
+    rgba(236, 217, 8, 0.487)
+  );
 }
 .main-screen {
   padding: 0px var(--horizontal-space);
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
