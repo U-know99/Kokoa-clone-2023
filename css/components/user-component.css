@@ -75,6 +75,7 @@
   display: flex;
   overflow: scroll;
   height: 96px;
+  width: 100%;
 }
 .updated-friend {
   display: flex;
