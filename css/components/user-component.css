@@ -76,6 +76,8 @@
   overflow: scroll;
   height: 96px;
   width: 100%;
+  padding: 10px;
+  padding-right: 0;
 }
 .updated-friend {
   display: flex;
@@ -180,4 +182,8 @@
   position: absolute;
   top: 334px;
   left: 690px;
+}
+
+.fa-star {
+  color: var(--yellow);
 }
